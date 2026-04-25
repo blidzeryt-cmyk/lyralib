@@ -1,0 +1,2 @@
+# lyralib
+Musical programming library 
